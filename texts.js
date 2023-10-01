@@ -1,4 +1,3 @@
 texts = [
-"FranVadillo-CV",
-"FranVadillo-CV"
+"1.Dream"
 ]
