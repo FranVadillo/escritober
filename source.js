@@ -3,7 +3,8 @@ window.onload = function() {
     row = document.getElementById("row");
     entry = document.getElementById("entry");
     let newText, childs;
-    for(let i = 0; i < 4; i++){
+    const d = new Date();
+    for(let i = 0; i < d.getDate(); i++){
         newText = entry.cloneNode(true);
         childs = newText.childNodes;
         childs[1].childNodes[0].innerHTML = texts[i];
