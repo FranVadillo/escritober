@@ -4,7 +4,7 @@ window.onload = function() {
     entry = document.getElementById("entry");
     let newText, childs;
     const d = new Date();
-    for(let i = 0; i < d.getDate(); i++){
+    for(let i = 0; i < 31; i++){
         newText = entry.cloneNode(true);
         childs = newText.childNodes;
         childs[1].childNodes[0].innerHTML = texts[i];
