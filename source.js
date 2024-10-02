@@ -10,8 +10,8 @@ window.onload = function() {
         childs[1].childNodes[0].href = "texts-2023/"+texts2023[i]+".pdf"
         row.appendChild(newText);
     }
-    row = document.getElementById("row-2024");
     entry.parentNode.removeChild(entry);
+    row = document.getElementById("row-2024");
     entry = document.getElementById("entry-2024");
     for(let i = 0; i < 31; i++){
         newText = entry.cloneNode(true);
