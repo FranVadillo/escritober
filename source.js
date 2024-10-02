@@ -1,6 +1,6 @@
 window.onload = function() {
     let row;
-    row = document.getElementById("row");
+    row = document.getElementById("row-2023");
     entry = document.getElementById("entry-2023");
     let newText, childs;
     for(let i = 0; i < 31; i++){
@@ -10,6 +10,7 @@ window.onload = function() {
         childs[1].childNodes[0].href = "texts/"+texts[i]+".pdf"
         row.appendChild(newText);
     }
+    row = document.getElementById("row-2024");
     entry.parentNode.removeChild(entry);
     entry = document.getElementById("entry-2024");
     for(let i = 0; i < 31; i++){
