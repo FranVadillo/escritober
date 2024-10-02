@@ -1,4 +1,4 @@
-texts = [
+texts2023 = [
 "1. Dream",
 "2. Spiders",
 "3. Path",
@@ -30,4 +30,7 @@ texts = [
 "29. Massive",
 "30. Rush",
 "31. Fire",
+]
+texts2024 = [
+"1. Backpack"
 ]
