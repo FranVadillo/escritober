@@ -32,5 +32,6 @@ texts2023 = [
 "31. Fire",
 ]
 texts2024 = [
-"1. Backpack"
+"1. Backpack",
+"2. Discover",
 ]
