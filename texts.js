@@ -34,4 +34,5 @@ texts2023 = [
 texts2024 = [
 "1. Backpack",
 "2. Discover",
+"3. Boots",
 ]
