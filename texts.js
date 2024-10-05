@@ -35,4 +35,6 @@ texts2024 = [
 "1. Backpack",
 "2. Discover",
 "3. Boots",
+"4. Exotic",
+"5. Binoculars",
 ]
