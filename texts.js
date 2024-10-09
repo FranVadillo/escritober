@@ -39,4 +39,6 @@ texts2024 = [
 "5. Binoculars",
 "6. Trek (sin hacer)",
 "7. Passport",
+"8. Hike (sin hacer)",
+"9. Sun",
 ]
