@@ -43,4 +43,10 @@ texts2024 = [
 "9. Sun",
 "10. Nomadic",
 "11. Snacks",
+"12. Remote (sin hacer)",
+"13. Horizon",
+"14. Roam (sin hacer)",
+"15. Guidebook (sin hacer)",
+"16. Grungy (sin hacer)",
+"17. Journal (sin hacer)",
 ]
