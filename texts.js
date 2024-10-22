@@ -47,7 +47,7 @@ texts2024 = [
 "13. Horizon",
 "14. Roam (sin hacer)",
 "15. Guidebook (sin hacer)",
-"16. Grungy (sin hacer)",
+"16. Grungy",
 "17. Journal (sin hacer)",
 "18. Drive (sin hacer)",
 "19. Ridge (sin hacer)",
