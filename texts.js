@@ -50,7 +50,7 @@ texts2024 = [
 "16. Grungy",
 "17. Journal (sin hacer)",
 "18. Drive (sin hacer)",
-"19. Ridge (sin hacer)",
+"19. Ridge",
 "20. Uncharted (sin hacer)",
 "21. Rhinoceros (sin hacer)",
 "22. Camp (sin hacer)",
