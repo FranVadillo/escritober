@@ -45,7 +45,7 @@ texts2024 = [
 "11. Snacks",
 "12. Remote",
 "13. Horizon",
-"14. Roam (sin hacer)",
+"14. Roam",
 "15. Guidebook (sin hacer)",
 "16. Grungy",
 "17. Journal (sin hacer)",
