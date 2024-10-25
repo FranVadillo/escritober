@@ -52,8 +52,9 @@ texts2024 = [
 "18. Drive",
 "19. Ridge",
 "20. Uncharted (sin hacer)",
-"21. Rhinoceros (sin hacer)",
+"21. Rhinoceros",
 "22. Camp (sin hacer)",
 "23. Rust (sin hacer)",
 "24. Expedition (sin hacer)",
+"25. Scarecrow (sin hacer)",
 ]
