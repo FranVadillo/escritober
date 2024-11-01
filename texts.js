@@ -58,7 +58,7 @@ texts2024 = [
 "24. Expedition (sin hacer)",
 "25. Scarecrow",
 "26. Camera",
-"27. Road (sin hacer)",
+"27. Road",
 "28. Jumbo (sin hacer)",
 "29. Navigator (sin hacer)",
 "30. Violin (sin hacer)",
